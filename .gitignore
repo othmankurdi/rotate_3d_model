@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/rotate_3d_model/venv-rotate_3d/
